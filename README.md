@@ -59,7 +59,9 @@ If you want to run the application locally, follow these steps:
    streamlit run streamlit.py
 
 
- ## Docker Essentials
+## Docker Essentials
+
+![Docker Steps](https://media.geeksforgeeks.org/wp-content/uploads/20230419170724/Docker-hub-registry.webp)
 
  1. Docker Commands
  ```bash
